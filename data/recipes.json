@@ -1,0 +1,15 @@
+[
+  {
+    "id": "1757913689287642",
+    "title": "Pancakes",
+    "ingredients": [
+      "flour",
+      "milk",
+      "egg"
+    ],
+    "instructions": "Mix and fry",
+    "cookTime": "20 mins",
+    "difficulty": "medium",
+    "createdAt": "2025-09-15T05:21:29.287Z"
+  }
+]
